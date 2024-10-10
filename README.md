@@ -6,5 +6,6 @@ Welcome to the Ibformation Theory & statistical Learning(ITSL) repository! This 
 - **HW1-HW4**: Theoretical homeworks (PDF problems/solutions)
 - **Final**: Final files (PDF problems/solutions)
 - **Project**: Written reports and implementation results
+  The project was about `privacy preserving in Federated Learning` and `improved bounds on general error`. 
 - **resources**: Reference materials, books, and papers
 
