@@ -1,4 +1,4 @@
-# Information_Theory_-_Statistical_Learning
+#  Information-Theory-Statistics-Learning-Course
 Welcome to the Ibformation Theory & statistical Learning(ITSL) repository! This repository contains theoretical homework solutions, final solutions, and project files and reports related to ITSL concepts.
 
 ## Contents
