@@ -1,5 +1,6 @@
 #  Information-Theory-Statistics-Learning-Course
 Welcome to the Ibformation Theory & statistical Learning(ITSL) repository! This repository contains theoretical homework solutions, final solutions, and project files and reports related to ITSL concepts.
+This course was instructed by [Dr. MohammadHossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en).
 
 ## Contents
 
